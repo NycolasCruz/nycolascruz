@@ -2,8 +2,8 @@
 
 <img width="300px" align='left' src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' />
 
-### Glad to see you here 👋
-- :school: I'm currently a Third Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
+- <h3>Glad to see you here 👋</h3>
+- :school: I am currently a computer science student and I am in the first semester
 
 - 🌱 At the moment I know:
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,6 +17,9 @@
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
+<br/>
+<br/>
+<br/>
 <br/>
 
   <div align="center">
