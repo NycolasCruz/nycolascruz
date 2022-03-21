@@ -1,7 +1,6 @@
 <h2 align="center">Hello everyone!! I'm Nycolas, passionate about programming and technology!</h2>
 
-<div>
-	<img width="300px" align='left' src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' />
+<img width="300px" align='left' src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' />
 
 - <h3>Glad to see you here 👋</h3>
 - :school: I am currently a computer science student and I am in the first semester
@@ -16,7 +15,6 @@
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-</div>
 
 <br/>
 <br/>
@@ -24,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/nycolascruz">
+	<a href="https://github.com/nycolascruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
