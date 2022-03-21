@@ -1,9 +1,8 @@
 <h2 align="center">Hello everyone!! I'm Nycolas, passionate about programming and technology!</h2>
 
 <div>
-	<a href="https://github.com/nycolascruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolascruzlayout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
