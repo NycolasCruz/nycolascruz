@@ -24,7 +24,7 @@
 ##
 	
 <div align="center">
-  <img width="360px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
