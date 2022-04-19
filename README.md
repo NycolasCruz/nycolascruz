@@ -16,6 +16,8 @@
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 	
+<a href="https://wakatime.com/@363b6df7-973d-40f8-9bb5-58600f5dbdc4"><img src="https://wakatime.com/badge/user/363b6df7-973d-40f8-9bb5-58600f5dbdc4.svg" alt="Total time coded since Dec 8 2021" /></a>
+	
 <br/>
 <br/>
 <br/>
@@ -29,4 +31,3 @@
 </div>
 
 ![Snake animation](https://github.com/nycolascruz/nycolascruz/blob/output/github-contribution-grid-snake.svg)
-<a href="https://wakatime.com/@363b6df7-973d-40f8-9bb5-58600f5dbdc4"><img src="https://wakatime.com/badge/user/363b6df7-973d-40f8-9bb5-58600f5dbdc4.svg" alt="Total time coded since Dec 8 2021" /></a>
