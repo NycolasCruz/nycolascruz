@@ -1,6 +1,5 @@
 <h2 align="center">Hello everyone!! I'm Nycolas, passionate about programming and technology!</h2>
 
-<img width="300px" align='left' src='https://github.com/nycolascruz/nycolascruz/blob/main/assets/dev.gif' />
 
 - <h3>Glad to see you here 👋</h3>
 - :school: I am currently a computer science student and I am in the first semester
@@ -17,13 +16,6 @@
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
-	
-	
-	
-<br/>
-<br/>
-<br/>
-<br/>
 	
 ##
 	
