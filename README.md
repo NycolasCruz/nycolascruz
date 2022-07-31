@@ -3,7 +3,6 @@
 <h4 align="center">
 	📖 I am currently a computer science student and I am in the first semester
 </h4>
-<br/>
 <h4 align="center">
 	🌱 At the moment I know:
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,7 +16,6 @@
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </h4>
-<br/>
 <h4 align="center">
 	🐧 But these are the technologies I use the most right now.
 	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
