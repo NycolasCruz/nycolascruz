@@ -1,7 +1,7 @@
 <h2 align="center">Hello everyone!! I'm Nycolas, passionate about programming and technology!</h2>
 
 <h4 align="center">
-	📖 I am currently a computer science student and I am in the first semester
+	📖 I am currently a computer science student and I am in the second semester
 </h4>
 <h4 align="center">
 	🌱 At the moment I know:
