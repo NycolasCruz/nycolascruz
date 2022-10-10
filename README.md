@@ -27,4 +27,6 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<a href="https://github.com/NycolasCruz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nycolascruz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ![Snake animation](https://github.com/nycolascruz/nycolascruz/blob/output/github-contribution-grid-snake.svg)
