@@ -23,9 +23,9 @@
 ##
 	
 <div align="center">
-  <img height=155em src="https://github-streak-stats.herokuapp.com/?user=nycolascruz&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="sequência de contribuições"/>
+  <img height=180em src="https://github-streak-stats.herokuapp.com/?user=nycolascruz&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="sequência de contribuições"/>
 
-  <img height="155em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <a href="https://github.com/NycolasCruz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nycolascruz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
