@@ -23,11 +23,11 @@
 ##
 	
 <div align="center">
-  <img height=188em src="https://github-streak-stats.herokuapp.com/?user=nycolascruz&theme=midnight-purple&hide_border=true&locale=pt-br&date_format=j/n/Y" alt="sequência de contribuições"/>
+  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"/>
 
   <img height="188em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<a href="https://github.com/NycolasCruz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nycolascruz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ![Snake animation](https://github.com/nycolascruz/nycolascruz/blob/output/github-contribution-grid-snake.svg)
