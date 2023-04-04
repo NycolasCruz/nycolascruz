@@ -20,6 +20,12 @@
 
 </h4>
 
+<div align="center">
+	
+[![wakatime](https://wakatime.com/badge/user/363b6df7-973d-40f8-9bb5-58600f5dbdc4.svg)](https://wakatime.com/@363b6df7-973d-40f8-9bb5-58600f5dbdc4)
+	
+</div>
+
 ##
 	
 <div align="center">
