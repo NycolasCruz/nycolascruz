@@ -38,5 +38,3 @@
 
   <img height="188em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-![Snake animation](https://github.com/nycolascruz/nycolascruz/blob/output/github-contribution-grid-snake.svg)
