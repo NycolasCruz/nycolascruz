@@ -1,4 +1,4 @@
-<h2 align="center">Olá, me chamo Nycolas e atuo na área da programação há cerca de dois anos!</h2>
+<h2 align="center">Olá, me chamo Nycolas e atuo na área da programação há dois anos!</h2>
 
 <h4 align="center">
 	📖 Atualmente estou no 4° semestre de Ciência da Computação e sempre estou me aprimorando sobre novas tecnologias da área!
