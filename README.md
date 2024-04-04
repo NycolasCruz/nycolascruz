@@ -1,7 +1,7 @@
 <h2 align="center">Olá, me chamo Nycolas e sou desenvolvedor fullStack!</h2>
 
 <h4 align="center">
-	📖 Atualmente estou no 4° semestre de Ciência da Computação e venho sempre me aprimorando sobre novas tecnologias da área!
+	📖 Atualmente estou no 5° semestre de Ciência da Computação e venho sempre me aprimorando sobre novas tecnologias da área!
 </h4>
 <h4 align="center">
 	🌱 Principais habilidades:
