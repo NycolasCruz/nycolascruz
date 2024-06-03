@@ -1,22 +1,8 @@
-<h2 align="center">Olá, me chamo Nycolas e sou desenvolvedor fullStack!</h2>
+<h2 align="center">Olá, me chamo Nycolas e sou desenvolvedor frontEnd!</h2>
 
 <h4 align="center">
-	📖 Atualmente estou no 5° semestre de Ciência da Computação e venho sempre me aprimorando sobre novas tecnologias da área!
+	📖 Atualmente estou no 5° semestre de Ciência da Computação e venho sempre me aprimorando sobre novas tecnologias da área, com foco no frontEnd!
 </h4>
-<h4 align="center">
-	🌱 Principais habilidades:
-</h4>
-<div align="center">
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-	<img style="padding:5px" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    	<img style="padding:5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
 
 <div align="center">
 	
