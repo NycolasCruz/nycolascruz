@@ -14,9 +14,9 @@
 	
 <div align="center">
 	<a href="https://wakatime.com/@Nycolas">
-  	<img width="494em" src="https://github-readme-stats-one-bice.vercel.app/api?username=nycolascruz&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true"/>
+  	<img width="484em" src="https://github-readme-stats-one-bice.vercel.app/api?username=nycolascruz&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true"/>
   </a>
 	<a href="https://wakatime.com/@Nycolas">
-  	<img width="506em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nycolas&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
+  	<img width="496em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nycolas&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
 	</a>
 </div>
