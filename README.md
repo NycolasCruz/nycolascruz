@@ -5,13 +5,18 @@
 </h4>
 
 <div align="center">
-	
+<a href="https://wakatime.com/@Nycolas">
+
 [![wakatime](https://wakatime.com/badge/user/363b6df7-973d-40f8-9bb5-58600f5dbdc4.svg)](https://wakatime.com/@363b6df7-973d-40f8-9bb5-58600f5dbdc4)
-	
+
+</a>
 </div>
 	
 <div align="center">
-  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=nycolascruz&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"/>
-
-  <img height="188em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=nycolascruz&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
+	<a href="https://wakatime.com/@Nycolas">
+  	<img width="494em" src="https://github-readme-stats-one-bice.vercel.app/api?username=nycolascruz&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true"/>
+  </a>
+	<a href="https://wakatime.com/@Nycolas">
+  	<img width="506em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nycolas&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
+	</a>
 </div>
