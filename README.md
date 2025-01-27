@@ -1,4 +1,4 @@
-<h2 align="center">Olá, me chamo Nycolas e sou desenvolvedor frontEnd!</h2>
+<h2 align="center">Olá, me chamo Nycolas e sou desenvolvedor frontend!</h2>
 
 <h4 align="center">
 	📖 Atualmente estou no 7° semestre de Ciência da Computação e venho sempre me aprimorando sobre novas tecnologias da área, com foco no frontend!
